@@ -1,0 +1,31 @@
+.top-bar {
+    display: flex;
+    gap: 10px;
+    padding-top: 5px;
+    margin-left: 1130px;
+    
+   
+  }
+  .top-bar input {
+    display: flex;
+    width: 202px;
+    height: 18;
+    background: #ebfffc;
+    border: none;
+    outline: none;
+    border-radius: 40px;
+    padding-left: 30px;
+    color: #626262;
+    font-size: 20px;
+    font-weight: 400;
+  }
+  .search-icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 38px;
+    height: 38px;
+    background: #ebfffc;
+    border-radius: 40px;
+    cursor: pointer;
+  }
